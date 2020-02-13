@@ -1,0 +1,7 @@
+/ * A John le gusta Susie * /
+/ * A todos les gusta Susie * /
+/ * A John le gustan todos * /
+/ * A John le gustan todos y a todos les gusta John * /
+/ * A John le gusta Susie o a John le gusta Mary * /
+/ * A John no le gusta la pizza * /
+/ * A John le gusta Susie si a John le gusta Mary. */ 
